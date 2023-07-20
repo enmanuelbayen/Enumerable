@@ -67,7 +67,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```sh
- sudo apt-get install postgresql postgresql-contrib 
+ sudo bundle install
 ```
 
 ### Setup
@@ -115,6 +115,12 @@ To run tests, run the following command:
 - GitHub: [@enmanuelbayen](https://github.com/enmanuelbayen)
 - Twitter: [@EJbayen](https://twitter.com/EJbayen)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enmanuel-bayen-torres-480906128/)
+
+👤 **Ruben Cuervo**
+
+- GitHub: [@Jrmcuervom](https://github.com/Jrmcuervo)
+- Twitter: [@Jrmcuervom](https://twitter.com/Jrcuervom)
+- LinkedIn: [Jrmcuervom](https://www.linkedin.com/in/jrmcuervom)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
