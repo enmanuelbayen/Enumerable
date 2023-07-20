@@ -1,6 +1,6 @@
-# [XXX]
+# Enumerable ruby app
 
-....
+Own enumarable list of members
 
 <a name="readme-top"></a>
 
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [XXX]  <a name="about-project"></a>
+# 📖 Enumerable List  <a name="about-project"></a>
 
 .....
 
@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:enmanuelbayen/[XXXXXX]........
+  git clone git@github.com:enmanuelbayen/Enumerable
 ```
 
 
@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd FILE-NAME HERE.....
+  cd Enumerable
 ```
 
 ### Usage
@@ -132,7 +132,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome! Will help me a lot to improve my coding skills.
 
-Feel free to check the [issues page](https://github.com/enmanuelbayen/FILE-NAME-HERE/issues)
+Feel free to check the [issues page](https://github.com/enmanuelbayen/Enumerable/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
